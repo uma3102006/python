@@ -1,0 +1,5 @@
+a= int(input('enter a'))
+b= int (input('enter b'))
+print (a>3 and b>2)
+print (a>3 or b>10)
+print (not 5>3)
